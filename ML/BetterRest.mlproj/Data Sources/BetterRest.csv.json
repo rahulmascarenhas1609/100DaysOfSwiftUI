@@ -1,0 +1,41 @@
+{
+  "activityEntities" : [
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-08-24T10:06:32Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "7ECF08DB-004F-4C3A-91DE-E533B7209B35",
+        "subtitle" : "BetterRest 1",
+        "title" : "Used By"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-08-24T10:06:32Z",
+        "event" : "dataSourceMetrics",
+        "id" : "08DC5DA4-3971-4233-9FB9-CC73C8DBEC45",
+        "subtitle" : "10,000 Items",
+        "title" : "Data Summary"
+      }
+    ]
+  ],
+  "createdDate" : "2026-08-24T10:00:30Z",
+  "dataPathRelativeToProjectURL" : "../../../../Downloads/HackingWithSwift-main/SwiftUI/project4-files/BetterRest.csv/",
+  "dataResult" : {
+    "createdDate" : "2026-08-24T10:00:30Z",
+    "dataSourceID" : "61ED5FBE-D432-4F36-9921-BBD86F07D466",
+    "dataURL" : "file:///Users/zml-mac-rahulm-01/Downloads/HackingWithSwift-main/SwiftUI/project4-files/BetterRest.csv"
+  },
+  "dataURL" : "file:///Users/zml-mac-rahulm-01/Downloads/HackingWithSwift-main/SwiftUI/project4-files/BetterRest.csv",
+  "experimentIDs" : [
+    "C4E4F033-E9BC-4F27-9207-30EBA3F7A2AF"
+  ],
+  "id" : "61ED5FBE-D432-4F36-9921-BBD86F07D466",
+  "modifiedDate" : "2026-08-24T10:06:32Z",
+  "pathType" : 0,
+  "preferredFilename" : "BetterRest.csv",
+  "title" : "BetterRest.csv",
+  "version" : "1.0"
+}

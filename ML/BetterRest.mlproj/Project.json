@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-08-24T09:57:32Z",
+        "event" : "projectCreated",
+        "id" : "A89CB226-83D9-4CAA-B1AE-DBA5196F0CF7",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "ZML-MAC-RahulM-01",
+  "createdDate" : "2026-08-24T09:57:32Z",
+  "description" : "",
+  "id" : "7AEEE942-9CE5-4D36-8E9A-E8EDC15C5E39",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-08-24T09:57:32Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
